@@ -5,7 +5,7 @@ I'm a student in my final year of studying Computer Science at Nottingham Trent 
 - I’m currently learning Java for Android as part of my final year project
 - How to reach me: stephen.anderson0220@gmail.com
 
-###FYP
+### FYP
 For my final year project (supervised by Dr Mufti Mahmud) I am investigating ways to assist those living with dementia using analysis methods of GPS data in a Java application for Android, extending an idea given to my group last year by my supervisor
 
 
