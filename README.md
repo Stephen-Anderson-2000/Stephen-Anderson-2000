@@ -9,9 +9,11 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Java for Android
 - 📫 How to reach me: stephen.anderson0220@gmail.com
 - 😄 Pronouns: He/him
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact:
 
 
-### Some Funky Stats:
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=stephen-anderson-2000&show_icons=true&theme=dark&count_private=true&custom_title=Github%20Stats&line_height=24)](https://github.com/anuraghazra/github-readme-stats)[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=stephen-anderson-2000&show_icons=true&theme=dark&langs_count=8&layout=compact&custom_title=Top%20Languages)](https://github.com/anuraghazra/github-readme-stats)
+
+### Some Interesting Stats About Me:
+[![Stephen's github stats](https://github-readme-stats.vercel.app/api?username=Stephen-Anderson-2000&show_icons=true&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Stephen-Anderson-2000)](https://github.com/anuraghazra/github-readme-stats)-->
