@@ -3,6 +3,7 @@ I'm a student in my final year of studying Computer Science at Nottingham Trent 
 
 - I’m currently working on nothing in particular outside of university coursework
 - I’m currently learning Java for Android as part of my final year project
+- I am also looking into ways of using machine learning and GPS data for path recognition
 - How to reach me: stephen.anderson0220@gmail.com
 
 ### FYP
