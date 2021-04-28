@@ -15,7 +15,7 @@ For my final year project (supervised by Dr Mufti Mahmud) I am investigating way
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Stephen-Anderson-2000&layout=compact&theme=radical&count_private=true)
 
-<a href="https://github.com/jstrieb/github-stats">
+<a href="https://github.com/Stephen-Anderson-2000/github-stats">
 
 ![](https://github.com/jstrieb/github-stats/blob/master/generated/overview.svg)
 ![](https://github.com/jstrieb/github-stats/blob/master/generated/languages.svg)
