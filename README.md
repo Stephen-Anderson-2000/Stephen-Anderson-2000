@@ -17,7 +17,7 @@ For my final year project (supervised by Dr Mufti Mahmud) I am investigating way
 
 <a href="https://github.com/Stephen-Anderson-2000/github-stats">
 
-![](https://github.com/jstrieb/github-stats/blob/master/generated/overview.svg)
-![](https://github.com/jstrieb/github-stats/blob/master/generated/languages.svg)
+![](https://github.com/Stephen-Anderson-2000/github-stats/blob/master/generated/overview.svg)
+![](https://github.com/Stephen-Anderson-2000/github-stats/blob/master/generated/languages.svg)
 
 </a>
