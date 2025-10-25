@@ -2,7 +2,6 @@
 I'm a full stack developer at allpay Ltd working in the financial sector, primarily creating software to assist those who may be unable to bank with high street banks.
 
 You can reach me at:
-stephen.anderson0220@gmail.com
 https://www.linkedin.com/in/stephen-andrew-anderson/
 
 ### Personal projects
