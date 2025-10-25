@@ -1,5 +1,5 @@
 ### Hello
-I'm a full stack developer at Trimble Inc. working in the civil construction software space after graduating from Nottingham Trent University with a Computer Science degree.
+I'm a full stack developer at allpay Ltd working in the financial sector, primarily creating software to assist those who may be unable to bank with high street banks.
 
 You can reach me at:
 stephen.anderson0220@gmail.com
@@ -9,7 +9,7 @@ https://www.linkedin.com/in/stephen-andrew-anderson/
 I often attempt the Advent of Code challenge, and some of my partial attempts can be found here in a variety of languages
 
 ### FYP
-For my final year project (supervised by Dr Mufti Mahmud) I investigated ways to assist those living with dementia using analysis methods of GPS data in a Java application for Android, extending an idea given to my group in second year by my supervisor
+For my university final year project I investigated ways to assist those living with dementia using analysis methods of GPS data in a Java application for Android, extending an idea given to my group in second year by my supervisor
 
 
 ### Some Interesting Stats About My Github:
